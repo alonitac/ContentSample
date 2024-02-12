@@ -1,32 +1,10 @@
 This README includes a selection of tutorials from a DevOps course conducted at multiple universities and companies in Israel.
 
-## Course nboarding
+## Course Onboarding
 
 Please complete the [onboarding tutorial](tutorials/onboarding.md) for the next class.
 
-## GitHub repositories for past projects
-
-Our teaching method includes a dedicated GitHub repository for each project. This allows seamless collaboration, version control, and easy access to project materials for both students and instructors.
-
-🔒 - private repo, access upon request.
-
-- 🔒 [DevOpsAug23](https://github.com/alonitac/DevOpsAug23) - DevOps course for a private college in Israel, August 2023.
-- 🔒 [DevOpsFeb23](https://github.com/alonitac/DevOpsFeb23) - DevOps course for a private college in Israel, February 2023.
-- [DevOpsMay22](https://github.com/alonitac/DevOpsMay22) - DevOps course for a private college in Israel, May 2022.
-- [DevOpsJan22](https://github.com/alonitac/DevOpsJan22) - DevOps course for a private college in Israel, January 2022.
-- [DevOpsCourseApril21](https://github.com/alonitac/DevOpsCourseApril21) - DevOps course for private college in Israel, April 2022.
-- [atech-devops-june-2023](https://github.com/alonitac/atech-devops-june-2023) - DevOps bootcamp for [A-tech](https://atech.org.il) program by Elevation, June 2023.
-- [Microservices23](https://github.com/alonitac/Microservices23) - Kubernetes course for one of the largest banking company in Israel, January 2024.
-- [DevOpsBootcampUPES](https://github.com/alonitac/DevOpsBootcampUPES) - DevOps bootcamp given for 150 CS students in UPES University in Dehradun, India, in July 2023. 
-- [UPES-CSDV3001](https://github.com/alonitac/UPES-CSDV3001) - CI/CD course given as part of the academical program in UPES University, at Fall 2023 semester.
-- [UPES-CSDV-3004](https://github.com/alonitac/UPES-CSDV-3004) - CI/CD course given as part of the academical program in UPES University, at Fall 2023 semester.
-- [DevSecOpsBIU12](https://github.com/alonitac/DevSecOpsBIU12) - DevSecOps course given at Bar Ilan University, 2023.
-- [DevSecOpsBIU11](https://github.com/alonitac/DevSecOpsBIU11) - DevSecOps course given at Bar Ilan University, 2022.
-- [AwsJune22](https://github.com/alonitac/AwsJune22) - AWS Cloud Architect associate training for a mid-size startup in Israel, June 2022.
-- [ArchitectingOnAws](https://github.com/alonitac/ArchitectingOnAws) - Architectures course given for engineers in IEC (Israel Electronic Company), August 2022.
-
 ## Content sample
-
 
 | Topic                   | Content                                                                                                                              | Exercises                                                                  | Multichoice questions                                                                        | Project                                                              |  
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -56,3 +34,24 @@ Our teaching method includes a dedicated GitHub repository for each project. Thi
 | CI/CD                   | [Jenkins Pull requests testing](tutorials/jenkins_pr_testing.md)                                                                     | [:pencil2:](tutorials/jenkins_pr_testing.md#exercises)                     |                                                                                              |                                                                      |  
 | Monitoring and Alerting | [Elasticsearch and Kibana](tutorials/monitoring_and_alerting_elastic_kibana.md)                                                      | [:pencil2:](tutorials/monitoring_and_alerting_elastic_kibana.md#exercises) |                                                                                              |                                                                      |  
     
+
+## GitHub repositories for past projects
+
+Our teaching method includes a dedicated GitHub repository for each project. This allows seamless collaboration, version control, and easy access to project materials for both students and instructors.
+
+🔒 - private repo, access upon request.
+
+- 🔒 [DevOpsAug23](https://github.com/alonitac/DevOpsAug23) - DevOps course for a private college in Israel, **August 2023**.
+- 🔒 [DevOpsFeb23](https://github.com/alonitac/DevOpsFeb23) - DevOps course for a private college in Israel, **February 2023**.
+- [DevOpsMay22](https://github.com/alonitac/DevOpsMay22) - DevOps course for a private college in Israel, **May 2022**.
+- [DevOpsJan22](https://github.com/alonitac/DevOpsJan22) - DevOps course for a private college in Israel, **January 2022**.
+- [DevOpsCourseApril21](https://github.com/alonitac/DevOpsCourseApril21) - DevOps course for private college in Israel, **April 2022**.
+- [atech-devops-june-2023](https://github.com/alonitac/atech-devops-june-2023) - DevOps bootcamp for [A-tech](https://atech.org.il) program by Elevation, **June 2023**.
+- [Microservices23](https://github.com/alonitac/Microservices23) - Kubernetes course for one of the largest banking company in Israel, **January 2024**.
+- [DevOpsBootcampUPES](https://github.com/alonitac/DevOpsBootcampUPES) - DevOps bootcamp given for 150 CS students in UPES University in Dehradun, India, in **July 2023**. 
+- [UPES-CSDV3001](https://github.com/alonitac/UPES-CSDV3001) - CI/CD course given as part of the academical program in UPES University, at **Fall 2023** semester.
+- [UPES-CSDV-3004](https://github.com/alonitac/UPES-CSDV-3004) - Containers and orchestration course given as part of the academical program in UPES University, at **Fall 2023** semester.
+- [DevSecOpsBIU12](https://github.com/alonitac/DevSecOpsBIU12) - DevSecOps course given at Bar Ilan University, **2023**.
+- [DevSecOpsBIU11](https://github.com/alonitac/DevSecOpsBIU11) - DevSecOps course given at Bar Ilan University, **2022**.
+- [AwsJune22](https://github.com/alonitac/AwsJune22) - AWS Cloud Architect associate training for a mid-size startup in Israel, **June 2022**.
+- [ArchitectingOnAws](https://github.com/alonitac/ArchitectingOnAws) - Architectures course given for engineers in IEC (Israel Electronic Company), **August 2022**.
