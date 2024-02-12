@@ -1,0 +1,11 @@
+
+
+- In the TLS Handshake page, you may need to change the url of https://raw.githubusercontent.com/alonitac/atech-devops-june-2023/main/networking_project/tls_webserver/cert-ca-aws.pem according to your group’s GitHub repo.
+- In the shared AWS account, create a user github-action with permissions on EC2 (it can be part of the limited students group).
+- Generate access CLI access keys.
+- In the group shared GitHub repo, go to Settings, under Secrets and variables, click on Actions.
+- Define the following Repository secrets:
+        AWS_ACCESS_KEY_ID with the generated access id as a value.
+        AWS_SECRET_ACCESS_KEY with the generated access key as a value.
+        COURSE_STAFF_SSH_KEY with the following value:
+
